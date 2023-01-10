@@ -1,4 +1,4 @@
 - 👋 Hola, soy Matías Bilz, estudiante de Ing. Civil Informática UCSC, estoy cursando segundo año de carrera.
 - 👀 Mis intereses son desarrollo web, ciberseguridad y manejo de base de datos.
-- 🌱 Actualmente estoy aprendiendo C/C++ y JS.
+- 🌱 Desarrollando mis habilidades en C/C++, python y js.
 - 📫 Puedes escribirme via Gmail: mati.bilz.gonzalez@gmail.com
